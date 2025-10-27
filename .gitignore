@@ -1,0 +1,17 @@
+# Maven
+target/
+.mvn/wrapper/dists/
+.mvn/wrapper/.cache/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
